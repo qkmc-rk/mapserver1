@@ -10,4 +10,6 @@ public class Mapserver1Application {
 		SpringApplication.run(Mapserver1Application.class, args);
 	}
 
+	//spring AI
+
 }
